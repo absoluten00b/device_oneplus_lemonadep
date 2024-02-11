@@ -1,6 +1,6 @@
 #
 # Copyright (C) 2021-2023 The LineageOS Project
-#               2022-2024 The Evolution X Project
+#               2022-2024 The PixelOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -32,8 +32,8 @@ PRODUCT_SYSTEM_DEVICE := OnePlus9Pro
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="OnePlus9Pro-user 13 TP1A.220905.001 R.141a199-1-e0 release-keys" \
+    PRIVATE_BUILD_DESC="OnePlus9Pro-user 13 TP1A.220905.001 1704339955502 release-keys" \
     TARGET_DEVICE=$(PRODUCT_SYSTEM_DEVICE) \
     TARGET_PRODUCT=$(PRODUCT_SYSTEM_NAME)
 
-BUILD_FINGERPRINT := OnePlus/OnePlus9Pro/OnePlus9Pro:13/TP1A.220905.001/R.141a199-1-e0:user/release-keys
+BUILD_FINGERPRINT := OnePlus/OnePlus9Pro/OnePlus9Pro:13/TP1A.220905.001/1704339955502:user/release-keys
