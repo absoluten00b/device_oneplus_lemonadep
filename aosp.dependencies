@@ -1,12 +1,12 @@
 [
   {
     "repository"  : "device_oneplus_sm8350-common",
-    "branch"      : "udc",
+    "branch"      : "14",
     "target_path" : "device/oneplus/sm8350-common"
   },
   {
     "repository"  : "vendor_oneplus_lemonadep",
-    "branch"      : "udc",
+    "branch"      : "14",
     "target_path" : "vendor/oneplus/lemonadep"
   }
 ]
